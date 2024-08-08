@@ -15,7 +15,10 @@
     [
         {
             "created_at": "2024-08-04T16:32:26.656872+00:00",
-            "publisher_id": 4,
+            "publisher": {
+                "id": 3,
+                "name": "Le monde" 
+            },
             "link": "https://www.lemonde.fr/international/article/2024/08/02/moscou-a-relache-ses-principaux-opposants-critiques-de-la-guerre_6264920_3210.html",
             "img": "https://img.lemde.fr/2024/08/02/23/0/3953/2635/315/210/75/0/ba0b58b_1722584028037-694222.jpg",
             "title": " La Russie a relâché ses principaux opposants critiques de la guerre  ",
@@ -27,7 +30,10 @@
         },
         {
             "created_at": "2024-08-04T16:32:26.656872+00:00",
-            "publisher_id": 1,
+            "publisher": {
+                "id": 1,
+                "name": "L'express de Madagascar"
+            },
             "link": "https://www.lexpress.mg/2024/08/festival-sobahya-la-culture-sakalava.html",
             "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Ch41GvuVqaKvpKRiVXw9Z4Tzfj5ScGjx7BoHrWEaCnzP_Is4doxJFlAGtgFlpPJHQHz5J77ydxWlOPMriamt1UJmus37puM33RhgpSJ2BQu7puJXPKGRpTlUnVPqwgQeumzIAb_z-QAuRCy3os2M2snv4m-tXr7jxv-2FGT2d8n-wIKsJVbaYMsO2g3M/w72-h72-p-k-no-nu/1722615983132.jpg",
             "title": "FESTIVAL SOBAHYA  - La culture Sakalava Marambitsy sous divers angles",
