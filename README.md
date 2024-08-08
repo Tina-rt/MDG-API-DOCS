@@ -1,6 +1,7 @@
 # MDG API DOCS
 
-
+## Base url: 
+`https://daily-mg-back.onrender.com`
 
 ## Endpoints
 
